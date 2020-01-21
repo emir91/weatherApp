@@ -1,0 +1,72 @@
+header{
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+input{
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#cityName{
+    margin-top: 40px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4rem;            
+  }
+
+#content{
+    margin-top: 20px;
+}
+
+#data{
+    margin-top: 40px;
+}
+
+.panel-body.body-font{
+    font-size: 30px;
+}
+
+.panel-footer.footer-font{
+    font-size: 15px;
+}
+
+.panel-footer.white{
+    color: mintcream;
+    font-weight: bold;
+}
+
+.panel-footer.good{
+    background-color: green;
+    
+}
+
+.panel-footer.moderate{
+    background-color: yellow;
+    font-weight: bold;
+}
+.panel-footer.sensitive-groups{
+    background-color: orange;
+    font-weight: bold;
+}
+.panel-footer.unhealty{
+    background-color: crimson;
+
+}
+.panel-footer.very-unehealty{
+    background-color: purple;
+
+}
+.panel-footer.hazardous{
+    background-color: rgb(236, 113, 113);
+    font-size: 15px;
+}
+
+
+
+
